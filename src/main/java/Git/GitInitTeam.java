@@ -6,7 +6,10 @@ public class GitInitTeam {
         System.out.println("Hello i'm Mateusz !!!!");
 
         System.out.println("print text in new branch");
-        Test test = new Test();
-        test.testing("message");
+
+        String stringToCheck = "Kobyła ma mały bok.";
+
+
+
     }
 }
